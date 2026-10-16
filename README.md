@@ -29,7 +29,7 @@
 <!-- ==================== DEMONSTRAÇÃO DO PROJETO ==================== -->
 
 <p align="center">
-  <img src="https://github.com/DiegoTarcisio/Mao-robotica-visao-computacional/raw/main/assets/mao.gif" alt="Demonstração da Mão Robótica" width="700" />
+  <img src="https://github.com/DiegoTarcisio/Mao-robotica-visao-computacional/raw/main/assets/mao.gif" alt="Demonstração da Mão Robótica" width="300" />
 </p>
 
 
