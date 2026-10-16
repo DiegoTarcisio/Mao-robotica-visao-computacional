@@ -26,11 +26,15 @@
 
 ---
 
-<!-- ==================== DEMONSTRAÇÃO / GIF ==================== -->
+<!-- ==================== DEMONSTRAÇÃO DO PROJETO ==================== -->
+
 <p align="center">
-  <!-- Substitua pelo link de um GIF ou foto da mão em funcionamento -->
-  <img src="https://via.placeholder.com/800x400/1F222E/FFFFFF?text=Adicione+aqui+o+GIF+ou+Foto+do+Sistema+em+A%C3%A7%C3%A3o" alt="Demonstração do Projeto" width="85%" style="border-radius: 10px;" />
+  <img src="https://github.com/DiegoTarcisio/Mao-robotica-visao-computacional/raw/main/assets/mao.gif" alt="Demonstração da Mão Robótica" width="700" />
 </p>
+
+
+
+
 
 ---
 
